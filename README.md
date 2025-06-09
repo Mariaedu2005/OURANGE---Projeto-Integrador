@@ -38,7 +38,8 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 ## 👥 Equipe e Orientadores
 
 ### Equipe de Desenvolvimento
-- **Joyce Honório** - *Team Member*
+- **João Pedro** - *Scrum Member*
+- **Joyce Honório** - *Scrum Member*
 - **Maria Nascimento** - *Product Owner*
 - **Matheus Amaral** - *Scrum Master*
 
@@ -53,7 +54,11 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver as informações de cada etapa.
 
 - **[Sprint 1 →](https://fatecspgov.sharepoint.com/:x:/s/PIIGPI-20251/EZ04FW3ebqdClAf1sTopFQkBe2pPOWDdYxe5XCJEgaX4xw)**
-  - Etapa de pesquisa e imersão para entender o mercado, a demografia e os concorrentes.
+  - Etapa de pesquisa e imersão para entender o mercado, a demografia, os concorrentes e desenvolvimento do nome e identidade da empresa.
+
+- **[Relatório da Sprint →]
+(https://fatecspgov-my.sharepoint.com/:w:/g/personal/maria_nascimento50_fatec_sp_gov_br/EbdmCrLNAEBPqFz3u4e332QBL9q-duK12I_CqxlAhj3lDQ)**
+
 
 - **[Sprint 2 →](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Planilha%20de%20dados%20Sprint%202%20-%20Ourange%20-%20Copiar%20-%20Copiar%20-%20Copiar.xlsx?d=wa7717e4ff8d6474f8ae309085203a7d8&csf=1&web=1&e=ekXIUi)**
   - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
