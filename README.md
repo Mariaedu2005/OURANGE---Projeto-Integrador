@@ -8,8 +8,8 @@
 - [ Sobre o Projeto](#-sobre-o-projeto)
 - [ Status das Sprints](#-status-das-sprints)
 - [ Equipe e Orientadores](#-equipe-e-orientadores)
-- [Sprint Showcase](#sprint-showcase)
-- [🛠 Ferramentas e Tecnologias](#️-ferramentas-e-tecnologias)
+- [ Sprint Showcase](#sprint-showcase)
+- [ Ferramentas e Tecnologias](#️-ferramentas-e-tecnologias)
 - [ Autores](#️-autores)
 
 ---
@@ -30,8 +30,8 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | :--- | :---: | :---: | :---: |
 | Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20627303/Kickoff.pdf) |
 | Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/g/personal/maria_nascimento50_fatec_sp_gov_br/EbdmCrLNAEBPqFz3u4e332QBL9q-duK12I_CqxlAhj3lDQ) |
-| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](Em Andamento) |
-| Sprint 03 | 27/05/2025 | ✅ Concluído | [Ver Relatório](Em Andamento) |
+| Sprint 02 | 22/04/2025 | ✅ Concluído | `Relatório em Andamento` |
+| Sprint 03 | 27/05/2025 | ⏳ Em Andamento  | `Pendente` |
 | Feira de Soluções| 06/12/2025 | ⏳ Em Andamento | `Pendente` |
 ---
 
