@@ -50,12 +50,12 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 ## Sprint Showcase
 
-Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver o detalhamento de cada etapa.
+Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver as informações de cada etapa.
 
-- **[Sprint 1 →](https://github.com/zorpinha/API-1SEM-020225/blob/5380420f151a49002cba466df73528a92d585dcf/Sprint/Sprint%201.md)**
+- **[Sprint 1 →](https://fatecspgov.sharepoint.com/:x:/s/PIIGPI-20251/EZ04FW3ebqdClAf1sTopFQkBe2pPOWDdYxe5XCJEgaX4xw)**
   - Etapa de pesquisa e imersão para entender o mercado, a demografia e os concorrentes.
 
-- **[Sprint 2 →](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202)**
+- **[Sprint 2 →](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Planilha%20de%20dados%20Sprint%202%20-%20Ourange%20-%20Copiar%20-%20Copiar%20-%20Copiar.xlsx?d=wa7717e4ff8d6474f8ae309085203a7d8&csf=1&web=1&e=ekXIUi)**
   - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
 
 - **[Sprint 3 →](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203)**
