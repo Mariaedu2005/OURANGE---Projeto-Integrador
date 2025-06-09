@@ -38,10 +38,9 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 ## 👥 Equipe e Orientadores
 
 ### Equipe de Desenvolvimento
-- **Bruno Pimenta** - *Scrum Master*
-- **Daniella Araujo** - *Team Member*
-- **Kauan Lucas** - *Team Member*
-- **Maria Eduarda** - *Product Owner*
+- **Joyce Honório** - *Team Member*
+- **Maria Nascimento** - *Product Owner*
+- **Matheus Amaral** - *Scrum Master*
 
 ### Orientação
 - **Orientador:** Professor Mestre Carlos Eduardo Bastos
