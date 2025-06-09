@@ -59,8 +59,8 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
 - **[Sprint 2](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Planilha%20de%20dados%20Sprint%202%20-%20Ourange%20-%20Copiar%20-%20Copiar%20-%20Copiar.xlsx?d=wa7717e4ff8d6474f8ae309085203a7d8&csf=1&web=1&e=ekXIUi)**
   - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
 
-- **[Sprint 3](Em Andamento)**
-  - Tratamento e estruturação de todos os dados coletados em um formato de "entrada e saída" para a criação de dashboards e análises visuais no Power BI.
+- **Sprint 3**
+  - Em Andamento.
 
 - **[Relatório do Projeto](https://fatecspgov-my.sharepoint.com/:w:/g/personal/maria_nascimento50_fatec_sp_gov_br/EacURECoIStCsRdO69nT1dMBOkBb2vvOdWtiJ82hU2LChA?e=nV28uf)**
   - Detalhamento de cada etapa do projeto.
