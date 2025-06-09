@@ -5,16 +5,16 @@
 
 ## 📝 Índice
 
-- [🎯 Sobre o Projeto](#-sobre-o-projeto)
-- [🚀 Status das Sprints](#-status-das-sprints)
-- [👥 Equipe e Orientadores](#-equipe-e-orientadores)
+- [ Sobre o Projeto](#-sobre-o-projeto)
+- [ Status das Sprints](#-status-das-sprints)
+- [ Equipe e Orientadores](#-equipe-e-orientadores)
 - [Sprint Showcase](#sprint-showcase)
-- [🛠️ Ferramentas e Tecnologias](#️-ferramentas-e-tecnologias)
-- [✍️ Autores](#️-autores)
+- [🛠 Ferramentas e Tecnologias](#️-ferramentas-e-tecnologias)
+- [ Autores](#️-autores)
 
 ---
 
-## 🎯 Sobre o Projeto
+##  Sobre o Projeto
 
 Neste projeto, atuamos como uma consultoria estratégica para uma empresa que venceu um leilão para privatização do serviço de telefonia em um país.
 
@@ -22,20 +22,20 @@ Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a 
 
 ---
 
-## 🚀 Status das Sprints
+##  Status das Sprints
 
 Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 | Sprint | Previsão | Status | Histórico |
 | :--- | :---: | :---: | :---: |
 | Kick Off | 14/03/2025 | ✅ Concluído | [Ver Relatório](https://github.com/user-attachments/files/20627303/Kickoff.pdf) |
-| Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/5380420f151a49002cba466df73528a92d585dcf/Sprint/Sprint%201.md) |
-| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%202) |
-| Sprint 03 | 27/05/2025 | ✅ Concluído | [Ver Relatório](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203) |
+| Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/g/personal/maria_nascimento50_fatec_sp_gov_br/EbdmCrLNAEBPqFz3u4e332QBL9q-duK12I_CqxlAhj3lDQ) |
+| Sprint 02 | 22/04/2025 | ✅ Concluído | [Ver Relatório](Em Andamento) |
+| Sprint 03 | 27/05/2025 | ✅ Concluído | [Ver Relatório](Em Andamento) |
 | Feira de Soluções| 06/12/2025 | ⏳ Em Andamento | `Pendente` |
 ---
 
-## 👥 Equipe e Orientadores
+##  Equipe e Orientadores
 
 ### Equipe de Desenvolvimento
 - **João Pedro** - *Scrum Member*
@@ -53,42 +53,40 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver as informações de cada etapa.
 
-- **[Sprint 1 →](https://fatecspgov.sharepoint.com/:x:/s/PIIGPI-20251/EZ04FW3ebqdClAf1sTopFQkBe2pPOWDdYxe5XCJEgaX4xw)**
+- **[Sprint 1](https://fatecspgov.sharepoint.com/:x:/s/PIIGPI-20251/EZ04FW3ebqdClAf1sTopFQkBe2pPOWDdYxe5XCJEgaX4xw)**
   - Etapa de pesquisa e imersão para entender o mercado, a demografia, os concorrentes e desenvolvimento do nome e identidade da empresa.
 
-- **[Relatório da Sprint →](https://fatecspgov-my.sharepoint.com/:w:/g/personal/maria_nascimento50_fatec_sp_gov_br/EbdmCrLNAEBPqFz3u4e332QBL9q-duK12I_CqxlAhj3lDQ)**
-
-
-- **[Sprint 2 →](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Planilha%20de%20dados%20Sprint%202%20-%20Ourange%20-%20Copiar%20-%20Copiar%20-%20Copiar.xlsx?d=wa7717e4ff8d6474f8ae309085203a7d8&csf=1&web=1&e=ekXIUi)**
+- **[Sprint 2](https://fatecspgov-my.sharepoint.com/:x:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Planilha%20de%20dados%20Sprint%202%20-%20Ourange%20-%20Copiar%20-%20Copiar%20-%20Copiar.xlsx?d=wa7717e4ff8d6474f8ae309085203a7d8&csf=1&web=1&e=ekXIUi)**
   - Refinamento dos dados iniciais, trabalhando com cenários hipotéticos para projeções de demanda e precificação.
 
-- **[Sprint 3 →](https://github.com/zorpinha/API-1SEM-020225/blob/68cd4c0a9af3a98e179819d0ddb3ebb477577488/Sprint/Sprint%203)**
+- **[Sprint 3](Em Andamento)**
   - Tratamento e estruturação de todos os dados coletados em um formato de "entrada e saída" para a criação de dashboards e análises visuais no Power BI.
 
+- **[Relatório do Projeto](https://fatecspgov-my.sharepoint.com/:w:/g/personal/maria_nascimento50_fatec_sp_gov_br/EacURECoIStCsRdO69nT1dMBOkBb2vvOdWtiJ82hU2LChA?e=nV28uf)**
+  - Detalhamento de cada etapa do projeto.
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+##  Ferramentas e Tecnologias
 
 Estas foram as ferramentas que deram suporte ao nosso planejamento, análise e gerenciamento de projeto.
 
 | Ferramenta | Utilização |
 | :--- | :--- |
-| **Trello** | Gerenciamento de tarefas e do backlog da Sprint. |
 | **Excel** | Coleta, estruturação e análise inicial dos dados. |
 | **Canvas** | Modelagem de negócios e estruturação da proposta de valor. |
 | **Power BI** | Criação de dashboards e visualização de dados. |
 | **Microsoft Teams**| Comunicação e colaboração da equipe. |
-| **ShareX** | Captura e compartilhamento de tela. |
+| **Word** | Documentação e registro das atividades. |
 
 ---
 
-## ✍️ Autores
+##  Autores
 
 Conecte-se com a nossa equipe!
 
 | Função | Nome | Contato |
 | :--- | :--- | :--- |
-| **Scrum Master** | Bruno Pimenta | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pimenta-b787522b4/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/zorpinha) |
-| **Team Member** | Kauan Lucas | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
-| **Team Member** | Daniella Araujo| [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
-| **Product Owner**| Maria Eduarda | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](...) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Team Member** | João Pedro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Team Member** | Joyce Honório | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joyfatec) |
+| **Product Owner** | Maria Nascimento| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mariaedu2005) |
+| **Scrum Master** | Matheus Amaral | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
