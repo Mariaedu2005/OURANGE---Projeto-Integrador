@@ -68,7 +68,7 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
 
 ##  Ferramentas Utilizadas
 
-Estas foram as ferramentas que deram suporte ao nosso planejamento, análise e desenvolvimento deste projeto.
+Estas foram as ferramentas Utilizadas como suporte ao nosso planejamento, análise e desenvolvimento deste projeto.
 
 | Ferramenta | Utilização |
 | :--- | :--- |
