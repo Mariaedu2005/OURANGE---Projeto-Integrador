@@ -5,16 +5,16 @@
 
 ## 📝 Índice
 
-- [ Sobre o Projeto](#-sobre-o-projeto)
+- [ Projeto](#projeto)
 - [ Status das Sprints](#-status-das-sprints)
 - [ Equipe e Orientadores](#-equipe-e-orientadores)
 - [ Sprint Showcase](#sprint-showcase)
-- [ Ferramentas e Tecnologias](#️-ferramentas-e-tecnologias)
+- [ Ferramentas Utilizadas](#️-ferramentas-utilizadas)
 - [ Autores](#️-autores)
 
 ---
 
-##  Sobre o Projeto
+## Projeto
 
 Neste projeto, atuamos como uma consultoria estratégica para uma empresa que venceu um leilão para privatização do serviço de telefonia em um país.
 
@@ -66,9 +66,9 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
   - Detalhamento de cada etapa do projeto.
 ---
 
-##  Ferramentas e Tecnologias
+##  Ferramentas Utilizadas
 
-Estas foram as ferramentas que deram suporte ao nosso planejamento, análise e gerenciamento de projeto.
+Estas foram as ferramentas que deram suporte ao nosso planejamento, análise e desenvolvimento deste projeto.
 
 | Ferramenta | Utilização |
 | :--- | :--- |
@@ -86,7 +86,7 @@ Conecte-se com a nossa equipe!
 
 | Função | Nome | Contato |
 | :--- | :--- | :--- |
-| **Team Member** | João Pedro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
-| **Team Member** | Joyce Honório | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joyfatec) |
+| **Scruam Team** | João Pedro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Scruam Team** | Joyce Honório | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joyfatec) |
 | **Product Owner** | Maria Nascimento| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mariaedu2005) |
 | **Scrum Master** | Matheus Amaral | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
