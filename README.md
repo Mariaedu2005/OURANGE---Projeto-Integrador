@@ -3,7 +3,7 @@
 
 ---
 
-## 📝 Índice
+##  Índice
 
 - [ Projeto](#projeto)
 - [ Status das Sprints](#-status-das-sprints)
