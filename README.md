@@ -24,7 +24,7 @@ Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a 
 
 ##  Status das Sprints
 
-Acompanhe o progresso do nosso projeto através da tabela de Sprints.
+Progresso do nosso projeto através da tabela de Sprints er relatórios do Product Owner sobre cada entrega.
 
 | Sprint | Previsão | Status | Histórico |
 | :--- | :---: | :---: | :---: |
@@ -32,7 +32,7 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 | Sprint 01 | 01/04/2025 | ✅ Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/g/personal/maria_nascimento50_fatec_sp_gov_br/EbdmCrLNAEBPqFz3u4e332QBL9q-duK12I_CqxlAhj3lDQ) |
 | Sprint 02 | 22/04/2025 | ✅ Concluído | `Relatório em Andamento` |
 | Sprint 03 | 27/05/2025 | ⏳ Em Andamento  | `Pendente` |
-| Feira de Soluções| 06/12/2025 | ⏳ Em Andamento | `Pendente` |
+
 ---
 
 ##  Equipe e Orientadores
@@ -51,7 +51,7 @@ Acompanhe o progresso do nosso projeto através da tabela de Sprints.
 
 ## Sprint Showcase
 
-Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver as informações de cada etapa.
+Cada Sprint representa uma entrega do projeto ao professor/cliente. Acesse os links para ver as informações de cada etapa.
 
 - **[Sprint 1](https://fatecspgov.sharepoint.com/:x:/s/PIIGPI-20251/EZ04FW3ebqdClAf1sTopFQkBe2pPOWDdYxe5XCJEgaX4xw)**
   - Etapa de pesquisa e imersão para entender o mercado, a demografia, os concorrentes e desenvolvimento do nome e identidade da empresa.
@@ -68,7 +68,7 @@ Cada Sprint representa um ciclo de entrega do projeto. Acesse os links para ver 
 
 ##  Ferramentas Utilizadas
 
-Estas foram as ferramentas Utilizadas como suporte ao nosso planejamento, análise e desenvolvimento deste projeto.
+Estas foram as ferramentas utilizadas como suporte ao nosso planejamento, análise e desenvolvimento deste projeto.
 
 | Ferramenta | Utilização |
 | :--- | :--- |
