@@ -16,7 +16,7 @@
 
 ## Projeto
 
-Neste projeto, atuamos como uma consultoria estratégica para uma empresa que venceu um leilão para privatização do serviço de telefonia em um país.
+Neste projeto, atuamos como uma consultoria estratégica para uma empresa que venceu um leilão para privatização do serviço de telefonia do país.
 
 Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a estratégia de comercialização de celulares na região designada, garantindo a viabilidade e o sucesso da operação.
 
