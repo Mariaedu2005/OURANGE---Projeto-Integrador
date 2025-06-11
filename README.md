@@ -86,7 +86,7 @@ Conecte-se com a nossa equipe!
 
 | Função | Nome | Contato |
 | :--- | :--- | :--- |
-| **Scruam Team** | João Pedro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Scruam Team** | João Pedro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jopedro902) |
 | **Scruam Team** | Joyce Honório | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joyfatec) |
 | **Product Owner** | Maria Nascimento| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mariaedu2005) |
 | **Scrum Master** | Matheus Amaral | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
