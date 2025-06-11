@@ -1,4 +1,4 @@
-# API - 1°SEM 2025
+# API - 1°SEMESTRE 2025
 > Projeto de consultoria para a implantação de uma rede de telefonia móvel, desenvolvido com a metodologia ágil SCRUM para fortalecer a Proatividade, Autonomia, Colaboração e Entrega de Resultados.
 
 ---
